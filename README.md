@@ -13,10 +13,10 @@ This repository provides code implementing closed-form expressions for smooth cu
 - **Note.** The note [YarnCurve.pdf](YarnCurve.pdf) provides a more thorough description of the plain-knit curves, including a step-by-step derivation.  The [LaTeX](https://en.wikipedia.org/wiki/LaTeX) source files for this note can be found in the [note](note/) subdirectory.
 
 - **Implementation.** The [code](code/) subdirectory contains a plain-C ([ANSI C90](https://en.wikipedia.org/wiki/ANSI_C)) implementation of the curve functions, as well as routines for writing curves to the [Wavefront OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file) mesh file format.  This code should be easily portable to most other languages.  Several implementations have been developed, in a variety of packages:
-    * [C](code/) -- this repo
-    * [Python](https://github.com/UH-AIM/yarn-fiber-generation) -- by [Tim Chen](https://aim.me.uh.edu/about/), with visualization in [Grasshopper 3D](https://en.wikipedia.org/wiki/Grasshopper_3D)
-    * [Julia](https://gist.github.com/empet/d7f0a03ef49151240c5a59882eda43e7) -- by [empet](https://github.com/empet)
-    * [WebGPU](https://potree.org/permanent/webgpu_playground/yarn/) -- by [Markus Schütz](https://github.com/potree/potree/)
+    * [C](code/) — this repo
+    * [Python](https://github.com/UH-AIM/yarn-fiber-generation) — by [Tim Chen](https://aim.me.uh.edu/about/), with visualization in [Grasshopper 3D](https://en.wikipedia.org/wiki/Grasshopper_3D)
+    * [Julia](https://gist.github.com/empet/d7f0a03ef49151240c5a59882eda43e7) — by [empet](https://github.com/empet)
+    * [WebGPU](https://potree.org/permanent/webgpu_playground/yarn/) — by [Markus Schütz](https://github.com/potree/potree/)
 
 <!-- * [Houdini](https://twitter.com/robpieke/status/1640805525494419456) -- by Rob Pieké -->
 
