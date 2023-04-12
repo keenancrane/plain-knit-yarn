@@ -30,4 +30,16 @@ This repository provides code implementing closed-form expressions for smooth cu
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Simple Parametric Model of Plain-Knit Yarns</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/keenancrane/plain-knit-yarn" property="cc:attributionName" rel="cc:attributionURL">Keenan Crane</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  Code is released under an [MIT License](LICENSE).
 
+### BibTeX citation
+
+```
+@misc{Crane:2023:SPM,
+title = {{A Simple Parametric Model of Plain-Knit Yarns}},
+author = {Crane, Keenan},
+month = {3},
+year = {2023},
+howpublished = {online},
+url = {https://github.com/keenancrane/plain-knit-yarn},
+}
+```
 
