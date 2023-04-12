@@ -237,7 +237,6 @@ int main( int argc, char** argv )
    const double w = h + 1./2.;     /* row spacing */
    const double r = 1./2.;         /* yarn radius */
    const double omega = 5.;        /* fiber twist */
-   const double phi = M_PI/2.;     /* fiber offset */
 
    writeYarnCurves( "yarn.obj", nRows, w, nLoops, samplesPerLoop, a, h, d );
    writeFiberCurves( "fibers.obj", nRows, w, nLoops, samplesPerLoop, a, h, d,
