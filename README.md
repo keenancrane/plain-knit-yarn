@@ -17,6 +17,7 @@ This repository provides code implementing closed-form expressions for smooth cu
     * [Python](https://github.com/UH-AIM/yarn-fiber-generation) — by [Tim Chen](https://aim.me.uh.edu/about/), with visualization in [Grasshopper 3D](https://en.wikipedia.org/wiki/Grasshopper_3D)
     * [Julia](https://gist.github.com/empet/d7f0a03ef49151240c5a59882eda43e7) — by [empet](https://github.com/empet)
     * [WebGPU](https://potree.org/permanent/webgpu_playground/yarn/) — by [Markus Schütz](https://github.com/potree/potree/)
+    * [C#/Grasshopper](https://discourse.mcneel.com/t/plain-knit-yarn-curves-from-keenan-crane/158186) — by [Laurent Delrieu](https://www.instagram.com/delrieulaurent/?hl=en)
 
 <!-- * [Houdini](https://twitter.com/robpieke/status/1640805525494419456) -- by Rob Pieké -->
 
